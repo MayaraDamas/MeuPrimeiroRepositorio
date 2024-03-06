@@ -1,0 +1,28 @@
+
+    .PaiA {
+    background-color: #e68303; 
+    height: 500px;
+    width: 500px;
+ }
+    .FilhaB{
+    background-color: #90ee90;
+    height: 50%;
+    width: 50%;
+}
+    .paragrafo{
+    color: #ffffff; 
+    background-color: #ff0000; 
+    font: 25px; 
+    font-family: monospace;
+    font-weight: bolder;
+    }
+    .IrmãoA{
+    height: 50vh;
+    width: 50%; 
+    background-color: rgb(207, 232, 240);
+    }
+    .SobrinhoA{
+    height: 50%;
+    width: 75vw;
+    background-color: rgb(212, 11, 11);
+    }
